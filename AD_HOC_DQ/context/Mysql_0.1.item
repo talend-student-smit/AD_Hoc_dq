@@ -1,41 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
   <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_3AdXkKTGEeqiNbm982_trA">
-    <contextParameter comment="" name="Mysql_Server" prompt="Mysql_Server?" promptNeeded="false" type="id_String" value="127.0.0.1" xmi:id="_3AdXkaTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_AdditionalParams" prompt="Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_3AdXkqTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Port" prompt="Mysql_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_3AdXk6TGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Database" prompt="Mysql_Database?" promptNeeded="false" type="id_String" value="rag" xmi:id="_3AdXlKTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Password" prompt="Mysql_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:89vhZtbudJnklSiv0YJ7RUvUqE9ZAIBUQCc5kw6NShA=" xmi:id="_3AdXlaTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Login" prompt="Mysql_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_3AdXlqTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value="" xmi:id="_3AdXl6TGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="new2" prompt="new2?" promptNeeded="false" type="id_String" value="" xmi:id="_3AdXmKTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Server" prompt="Connection_Mysql_Server?" promptNeeded="false" type="id_String" value="127.0.0.1" xmi:id="_3AdXkaTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_AdditionalParams" prompt="Connection_Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_3AdXkqTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Port" prompt="Connection_Mysql_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_3AdXk6TGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Database" prompt="Connection_Mysql_Database?" promptNeeded="false" type="id_String" value="rag" xmi:id="_3AdXlKTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Password" prompt="Connection_Mysql_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:UaTtJ7qn71VLF16U8ncwEbcu3MV+johSfDfYGpevhag=" xmi:id="_3AdXlaTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Login" prompt="Connection_Mysql_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_3AdXlqTGEeqiNbm982_trA"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_3AdXmaTGEeqiNbm982_trA">
-    <contextParameter comment="" name="Mysql_Server" prompt="Mysql_Server?" promptNeeded="false" type="id_String" value="127.0.0.1" xmi:id="_3AdXmqTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_AdditionalParams" prompt="Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_3AdXm6TGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Port" prompt="Mysql_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_3AdXnKTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Database" prompt="Mysql_Database?" promptNeeded="false" type="id_String" value="rag" xmi:id="_3AdXnaTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Password" prompt="Mysql_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:UZxI6lbZkfiJgUqAcqyYG457OzHvfjyizYjKCxzVr8o=" xmi:id="_3AdXnqTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Login" prompt="Mysql_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_3AdXn6TGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value="" xmi:id="_3AdXoKTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="new2" prompt="new2?" promptNeeded="false" type="id_String" value="" xmi:id="_3AdXoaTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Server" prompt="Connection_Mysql_Server?" promptNeeded="false" type="id_String" value="127.0.0.1" xmi:id="_3AdXmqTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_AdditionalParams" prompt="Connection_Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_3AdXm6TGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Port" prompt="Connection_Mysql_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_3AdXnKTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Database" prompt="Connection_Mysql_Database?" promptNeeded="false" type="id_String" value="rag" xmi:id="_3AdXnaTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Password" prompt="Connection_Mysql_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:RA5YR2rBzLtHGDZPKh1DkP+/0AMRFyYtSteSte4NRFY=" xmi:id="_3AdXnqTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Login" prompt="Connection_Mysql_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_3AdXn6TGEeqiNbm982_trA"/>
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_3AdXoqTGEeqiNbm982_trA">
-    <contextParameter comment="" name="Mysql_Server" prompt="Mysql_Server?" promptNeeded="false" type="id_String" value="127.0.0.1" xmi:id="_3AdXo6TGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_AdditionalParams" prompt="Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_3AdXpKTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Port" prompt="Mysql_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_3AdXpaTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Database" prompt="Mysql_Database?" promptNeeded="false" type="id_String" value="rag" xmi:id="_3AdXpqTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Password" prompt="Mysql_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:6zmS0T5tG6brOg+rAWg/HSsun28tZIwTartDSI+bfdw=" xmi:id="_3AdXp6TGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="Mysql_Login" prompt="Mysql_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_3AdXqKTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value="" xmi:id="_3AdXqaTGEeqiNbm982_trA"/>
-    <contextParameter comment="" name="new2" prompt="new2?" promptNeeded="false" type="id_String" value="" xmi:id="_3AdXqqTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Server" prompt="Connection_Mysql_Server?" promptNeeded="false" type="id_String" value="127.0.0.1" xmi:id="_3AdXo6TGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_AdditionalParams" prompt="Connection_Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_3AdXpKTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Port" prompt="Connection_Mysql_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_3AdXpaTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Database" prompt="Connection_Mysql_Database?" promptNeeded="false" type="id_String" value="rag" xmi:id="_3AdXpqTGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Password" prompt="Connection_Mysql_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:rCbyU9SxTjCkoxxwcgBD0ScnHRJQnhXkB5mskNiLFE0=" xmi:id="_3AdXp6TGEeqiNbm982_trA"/>
+    <contextParameter comment="" name="Connection_Mysql_Login" prompt="Connection_Mysql_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_3AdXqKTGEeqiNbm982_trA"/>
   </talendfile:ContextType>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_08c6e891-7250-4206-a7f8-1ac2e3c70961"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>vIS/j7SPJwj8qp+Nj71blz41BjZ0YFzrGTTJzB1u+sgNiIAMnd12XW3p9lX/bOVsih04wQpplC2B
-/mav7S5tDg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_12296e37-95d3-42e6-a932-54df15744d8b"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>RfnP/r8TvULe69mvaGM+Umvgb0WZpcxbxW+4eYVuufzcT3h2NE5DeYK7LI6+jLBPteOQVaI4DmCh
-xDhiHRYEmg==</DigestValue></Reference></SignedInfo><SignatureValue>bBXiR/A3loXQHTyvK20/DSo1Nkt4lfE/GeHTDNznnBbZWkEvgz6IBHaTmDaWbMOTVO0GpLjLFIm4
-h0+iv86Kh1FQ1whP5wqXqwFoj0dLHvItiW1JVH4fjEK1TlAJ662LiK1jgtbOWTqozcox62vO5je2
-Ja0PG3tlbFKZwqyfdM2egCCMgTpclLcsOrPLgj5f14yc6UsbzmbCDyGbUonRclt8U2JCGC2Ne2PF
-m/Nl8+oOs2ZCVJme9mBgxiWAKfaiiefFyvfxg0DM3oVQ3CHMadWICl29EceRzEQU13PyaKC2PQtM
-YJBNf6DDGnuLEEvY19PITzPxNcdVF0ocH3pS3g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_1826302c-0a76-45a5-89a5-6c61d18c468d"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>I9cHJnYxQJL1F6I92dIUejSC94ruqAmlP2rwEAJn32xZzc8CT9g7Ch9Ky2BNjWyQzup0xMM16KmA
+GSVcmaGuNg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_dde46683-065f-412e-869d-1b5abc53bab5"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>0x9xG5gN9UiFzMdzuUQdemP/FQgrhewrM9Z5Khe3r4BytVpXS4HPt8kBjryERydBsVFnpou0KiqD
+qx3JMjwFGw==</DigestValue></Reference></SignedInfo><SignatureValue>ctVIy36oSOXlb4IxEKgS3Npv4gNG6HhHlZlavuFtsF1UzUWb6gmdQGN01R3o0bo5JcZqJVr+CqN3
+ihv76Eu05X8UUkq1KMEyJi0ziexZPEW4nvWAr7GNe1mUxtlNPwg+XYyHMngbrX89dDYqLAk81hZx
+sQlumWTkQ6dYBLdzl4/1UqzwN+QAFLbXy1kHBxcwtGuW7DEQg0K0gvcrtoSkxxuzJqHuh0dS33G9
+QAG/X0aNFnz+ErDU0s795MtF9iRZfvzivtBtm2dCrCIk8041EVTxMro6xuvRjKNLbkH1sI1wqVLq
+uarycA0BG98u4q2YvKFzNU+08tTDTWQKiPAYHA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -57,4 +51,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_12296e37-95d3-42e6-a932-54df15744d8b" Target="#_08c6e891-7250-4206-a7f8-1ac2e3c70961"><Timestamp>2020-06-02 11:47:39</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_dde46683-065f-412e-869d-1b5abc53bab5" Target="#_1826302c-0a76-45a5-89a5-6c61d18c468d"><Timestamp>2020-06-02 11:58:11</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
