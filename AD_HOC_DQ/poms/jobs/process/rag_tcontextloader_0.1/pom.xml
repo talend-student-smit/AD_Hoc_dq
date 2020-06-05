@@ -9,9 +9,9 @@
     <relativePath>../../../</relativePath>
   </parent>
   <groupId>org.example.ad_hoc_dq.job</groupId>
-  <artifactId>tesg1</artifactId>
+  <artifactId>Rag_tContextLoader</artifactId>
   <version>0.1.0</version>
-  <name>AD_HOC_DQ tesg1-0.1.0 (0.1,Job Designs)</name>
+  <name>AD_HOC_DQ Rag_tContextLoader-0.1.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -24,7 +24,7 @@
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>AD_HOC_DQ</talend.project.name>
     <talend.product.version>7.3.1.20200219_1130</talend.product.version>
-    <talend.job.finalName>tesg1_0_1</talend.job.finalName>
+    <talend.job.finalName>rag_tcontextloader_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.ad_hoc_dq.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.ad_hoc_dq.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,7 +33,7 @@
     <talend.job.context>Qudos_DEV</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>tesg1</talend.job.name>
+    <talend.job.name>Rag_tContextLoader</talend.job.name>
     <talend.job.id>_8h4s8KaAEeqZg73iQzCHvQ</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder></talend.job.folder>

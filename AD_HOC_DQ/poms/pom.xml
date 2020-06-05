@@ -20,7 +20,7 @@
     <module>jobs/process/jobwithdbwithcv_2context_0.1</module>
     <module>jobs/process/jobwithdbwithcv_3context_0.1</module>
     <module>jobs/process/raghv_0.1</module>
-    <module>jobs/process/tesg1_0.1</module>
+    <module>jobs/process/rag_tcontextloader_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
