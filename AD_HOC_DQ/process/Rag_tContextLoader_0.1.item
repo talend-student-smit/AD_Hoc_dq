@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" defaultContext="Qudos_DEV" jobType="Standard" xmi:version="2.0">
   <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="connection_DBOuput_fileName" prompt="connection_DBOuput_fileName?" promptNeeded="false" type="id_String" value="c:/context_loader_file.txt"/>
-    <contextParameter comment="" name="connection_Mysql_FilePath" prompt="connection_Mysql_FilePath?" promptNeeded="false" type="id_String" value="c:/InputParametersDev.txt"/>
-    <contextParameter comment="" name="connection_Mysql_Server" prompt="connection_Mysql_Server?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_AdditionalParams" prompt="connection_Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Port" prompt="connection_Mysql_Port?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Database" prompt="connection_Mysql_Database?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Password" prompt="connection_Mysql_Password?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Login" prompt="connection_Mysql_Login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="fileName" prompt="fileName?" promptNeeded="false" type="id_String" value="c:/context_loader_file.txt"/>
+    <contextParameter comment="" name="FilePath" prompt="FilePath?" promptNeeded="false" type="id_String" value="c:/InputParametersDev.txt"/>
+    <contextParameter comment="" name="Mysql_Server" prompt="Mysql_Server?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="AdditionalParams" prompt="AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Port" prompt="Mysql_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Database" prompt="Mysql_Database?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Password" prompt="Mysql_Password?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Login" prompt="Mysql_Login?" promptNeeded="false" type="id_String" value=""/>
   </context>
   <context confirmationNeeded="false" name="Qudos_DEV">
-    <contextParameter comment="" name="connection_DBOuput_fileName" prompt="connection_DBOuput_fileName?" promptNeeded="false" type="id_String" value="c:/context_loader_file.txt"/>
-    <contextParameter comment="" name="connection_Mysql_FilePath" prompt="connection_Mysql_FilePath?" promptNeeded="false" type="id_String" value="c:/InputParametersDev.txt"/>
-    <contextParameter comment="" name="connection_Mysql_Server" prompt="connection_Mysql_Server?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_AdditionalParams" prompt="connection_Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Port" prompt="connection_Mysql_Port?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Database" prompt="connection_Mysql_Database?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Password" prompt="connection_Mysql_Password?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Login" prompt="connection_Mysql_Login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="fileName" prompt="fileName?" promptNeeded="false" type="id_String" value="c:/context_loader_file.txt"/>
+    <contextParameter comment="" name="FilePath" prompt="FilePath?" promptNeeded="false" type="id_String" value="c:/InputParametersDev.txt"/>
+    <contextParameter comment="" name="Mysql_Server" prompt="Mysql_Server?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="AdditionalParams" prompt="AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Port" prompt="Mysql_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Database" prompt="Mysql_Database?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Password" prompt="Mysql_Password?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Login" prompt="Mysql_Login?" promptNeeded="false" type="id_String" value=""/>
   </context>
   <context confirmationNeeded="false" name="Qudos_Prod">
-    <contextParameter comment="" name="connection_DBOuput_fileName" prompt="connection_DBOuput_fileName?" promptNeeded="false" type="id_String" value="c:/context_loader_file.txt"/>
-    <contextParameter comment="" name="connection_Mysql_FilePath" prompt="connection_Mysql_FilePath?" promptNeeded="false" type="id_String" value="c:/InputParameterrsProd.txt"/>
-    <contextParameter comment="" name="connection_Mysql_Server" prompt="connection_Mysql_Server?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_AdditionalParams" prompt="connection_Mysql_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Port" prompt="connection_Mysql_Port?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Database" prompt="connection_Mysql_Database?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Password" prompt="connection_Mysql_Password?" promptNeeded="false" type="id_String" value=""/>
-    <contextParameter comment="" name="connection_Mysql_Login" prompt="connection_Mysql_Login?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="fileName" prompt="fileName?" promptNeeded="false" type="id_String" value="c:/context_loader_file.txt"/>
+    <contextParameter comment="" name="FilePath" prompt="FilePath?" promptNeeded="false" type="id_String" value="c:/InputParameterrsProd.txt"/>
+    <contextParameter comment="" name="Mysql_Server" prompt="Mysql_Server?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="AdditionalParams" prompt="AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Port" prompt="Mysql_Port?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Database" prompt="Mysql_Database?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Password" prompt="Mysql_Password?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="Mysql_Login" prompt="Mysql_Login?" promptNeeded="false" type="id_String" value=""/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
@@ -71,7 +71,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:mU/Z55rIpdKtNSogPjLWJ9DOGZa2CdvjCCxkh/oh"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:Kj09frVNZ7lvLzGu0CKdGaq0+Hi0V8cQIgCkHken"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -106,7 +106,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:8KceOemLBe78VJiaOHp/IL+icj3I9QY5VWWCLDJ2"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:zuehC/Nmu4/n47Bb6jyo5Mu+M+cZ0EO7JwWFF2ik"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -166,7 +166,7 @@
   <node componentName="tFileInputDelimited" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="224" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputDelimited_1"/>
     <elementParameter field="LABEL" name="FILENAMETEXT" value="&quot;When the input source is a stream or a zip file,footer and random shouldn't be bigger than 0.&quot;"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.connection_Mysql_FilePath"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.FilePath"/>
     <elementParameter field="CHECK" name="CSV_OPTION" value="false"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
@@ -243,7 +243,7 @@
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MySQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:ReT15YMFNsxXyWkWqxsrzHFScxP9q8t2BOSeE/hw"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:h4dW82nb5PLMX1CcVqek+gJfLhU1CwssR0tOPnUZ"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;TestTable&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -272,7 +272,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileOutputDelimited_1"/>
     <elementParameter field="CHECK" name="USESTREAM" value="false"/>
     <elementParameter field="TEXT" name="STREAMNAME" show="false" value="outputStream"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.connection_DBOuput_fileName"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.fileName"/>
     <elementParameter field="TEXT" name="ROWSEPARATOR" value="&quot;\n&quot;"/>
     <elementParameter field="CHECK" name="OS_LINE_SEPARATOR_AS_ROW_SEPARATOR" show="false" value="true"/>
     <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
@@ -305,13 +305,13 @@
   <node componentName="tMysqlConnection" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="832" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBConnection_1"/>
     <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="MYSQL_8"/>
-    <elementParameter field="TEXT" name="HOST" value="context.connection_Mysql_Server"/>
+    <elementParameter field="TEXT" name="HOST" value="context.Mysql_Server"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MySQL"/>
-    <elementParameter field="TEXT" name="PORT" value="context.connection_Mysql_Port"/>
-    <elementParameter field="TEXT" name="DBNAME" value="context.connection_Mysql_Database"/>
-    <elementParameter field="TEXT" name="PROPERTIES" value="context.connection_Mysql_AdditionalParams"/>
-    <elementParameter field="TEXT" name="USER" value="context.connection_Mysql_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:06K4AYrtDzo3GXPK4Zjk/aCN2DRLFezs3f+NoU/mWnyavfrKVh0UwM8SGkMvfepaqCrZU8ZweAOqdXeu+w=="/>
+    <elementParameter field="TEXT" name="PORT" value="context.Mysql_Port"/>
+    <elementParameter field="TEXT" name="DBNAME" value="context.Mysql_Database"/>
+    <elementParameter field="TEXT" name="PROPERTIES" value="context.AdditionalParams"/>
+    <elementParameter field="TEXT" name="USER" value="context.Mysql_Login"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:oBgahkQtq/1oEiKoVdg//eBt9GUrUoqDEbR+a6SkwlgbZr5L5HUSYVkn+o519wibG7U="/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -403,13 +403,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_32fd8b68-5001-44ea-a8b0-1b6c27aa5862"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>50QUUimQ4AFJjlC6mzGzP4qTdIda7+I3eGRHkQ0KQPZYa10na/aDaZ4L+kWQ/o7f3L5j0WQLUWPO
-pwrwhRH8nA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_8998f61a-fc05-43f6-88d7-de383a02140c"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>AbBP2GcskDnSTvWODCgDjHST25ojpYec7D5PBwmqYVzRftBfhSof4Taj6IlO8oVkWWrX1h6RttAf
-o+FWWObzXA==</DigestValue></Reference></SignedInfo><SignatureValue>BalCtBVjBvpUE+/lLhuRI2Bu6yYxm2LdXxxhEq1Yzn6duoP0vj2t+o6/9VH2/YOZMJG/rClI4gnw
-iP1eGEzcFfXWe7KSrAdsuWG6JgMYl2Bqund2DQE19D0ebjAmjezPuesVRXqt5hmgHk9pDrh0W0Oo
-xR2wKcmMk2CLzpjesen/Wq32AiMsPCYCgpfRa+uaPFNM/50jEpsZx7f8M6c21+VkLSVf5lPNKpYB
-78Ohz++Tp04XQ76pVimqhY5pkRzk0WD0BNdnrTP1Mw2eBkRJhe/h+RYtmwRVQJeYmt/nFnNuL7Ml
-c/j22Eu25i7HtDvMgtr4SmyTT2yPpZ6C4Qc5Qg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_4e72ebb9-cc11-442e-b207-cf3353693c62"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>aNM5PyzUFJhigibeTcsl14axSqn6RAoCmEdMKslAVZuC9ZhRzBwkYa8Z2MlnjKFqc5JQNV1uUip+
+gmrg4OFmkg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1efea1dc-ef9e-4de5-b422-de78e0bbfbcb"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9shZpnEwYnTM+JFMvyOzgU7x1AzZz9eMfhf18yyGW8AlqoeWSRYyvX6gsgee1bc/i3f0K/xjdfWk
+qbYU1dH9XA==</DigestValue></Reference></SignedInfo><SignatureValue>LKKlHLJJrvsLHUnHF3ub4RFnXc1OFcVi0DaDfq9b0yXM4Spgc1sENwTIFqKx6rPYodF1HdxuA9AA
+Clwdx0FIwLFeq0mWXDtuwwIJn9eoJ+vy5KR6N0PDWqCT3CwG5sg0Q/NQHSgb02bt9PRIDt9RjGU3
+qmFQGBrTeaWXNhfKJECe4Eh8tZ6JtWbnBJCx6YUBbtjidvUTtHydd9QJzknl1Hj+GHf3goaWWvM0
+7STExNv7MUo+q4phK2Vx5/Pb+S6FekdSu55pYxOjKIsv3f3h6uCdJitxBYR0iHVUxByRfmXNa1rk
+5KdMSfTouUtQwBBv8Z9vFA/AtY8cq4Z/ZX3jFg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -431,4 +431,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_8998f61a-fc05-43f6-88d7-de383a02140c" Target="#_32fd8b68-5001-44ea-a8b0-1b6c27aa5862"><Timestamp>2020-06-05 02:56:50</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1efea1dc-ef9e-4de5-b422-de78e0bbfbcb" Target="#_4e72ebb9-cc11-442e-b207-cf3353693c62"><Timestamp>2020-06-05 02:59:07</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
